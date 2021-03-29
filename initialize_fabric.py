@@ -14,7 +14,7 @@ apic_ip ='10.103.23.10'
 username = 'admin'
 #f = open('credentials', 'r')
 #switchpassword = f.readline()
-password = 'Avpnmw3wl!'
+password = 'secret'
 #Excel File name
 file_name = 'fabric_init.xlsx'
 
