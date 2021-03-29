@@ -26,5 +26,7 @@ Currently creating:
    MCP DISABLED
    
    And then lastly the work in progress part is where we would use the same xlsx sheet to add tenants, VRFs and BD's etc...
+   
+   The other files are all used to test simple tasks etc...and int he 'aci_json_objects' folder there are some json objects used for ACI stuff ;-)
      
     Have fun.
